@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Daði
 
-<!--
-**dadihrannar1/dadihrannar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics engineer working at Aalborg University on autonomous
+space robotics in collaboration with ESA.
 
-Here are some ideas to get you started:
+My work focuses on reinforcement learning, robot simulation, ROS 2,
+autonomous systems and the integration of complex physical robots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- SKYWALKER — reinforcement learning for autonomous crawling in a
+  planar microgravity analogue
+- JACO2 — assistive robotic manipulation
+- Autonomous asphalt-inspection robot
+
+## Technologies
+
+Python, C++, ROS 2, Isaac Lab, reinforcement learning, Docker and Git
